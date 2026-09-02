@@ -1,0 +1,97 @@
+ERROR:root:division by zero
+Traceback (most recent call last):
+  File "g:\python project\Python-Practise\Debugging_Logging.py", line 36, in <module>
+    temp = a/b
+           ~^~
+ZeroDivisionError: division by zero
+ERROR:root:division by zero
+Traceback (most recent call last):
+  File "g:\python project\Python-Practise\Debugging_Logging.py", line 36, in <module>
+    temp = a/b
+           ~^~
+ZeroDivisionError: division by zero
+INFO:root:This is an informational message.
+ERROR:root:This is an error message.
+INFO:root:This is an informational message.
+ERROR:root:This is an error message.
+INFO:root:This is an informational message.
+ERROR:root:This is an error message.
+ERROR:root:division by zero
+Traceback (most recent call last):
+  File "g:\python project\Python-Practise\Debugging_Logging.py", line 41, in <module>
+    temp = a/b
+           ~^~
+ZeroDivisionError: division by zero
+INFO:root:This is an informational message.
+ERROR:root:This is an error message.
+ERROR:root:division by zero
+Traceback (most recent call last):
+  File "g:\python project\Python-Practise\Debugging_Logging\Debugging_Logging.py", line 41, in <module>
+    temp = a/b
+           ~^~
+ZeroDivisionError: division by zero
+INFO:root:We are calling our add function.
+INFO:root:add function executed, task completed.
+INFO:root:We are calling our is_even function.
+INFO:root:is_even function executed, task completed.
+INFO:root:This is an informational message.
+ERROR:root:This is an error message.
+ERROR:root:division by zero
+Traceback (most recent call last):
+  File "g:\python project\Python-Practise\Debugging_Logging\Debugging_Logging.py", line 41, in <module>
+    temp = a/b
+           ~^~
+ZeroDivisionError: division by zero
+INFO:root:We are calling our add function.
+INFO:root:add function executed, task completed.
+INFO:root:We are calling our is_even function.
+INFO:root:is_even function executed, task completed.
+INFO:root:This is an informational message.
+ERROR:root:This is an error message.
+ERROR:root:division by zero
+Traceback (most recent call last):
+  File "g:\python project\Python-Practise\Debugging_Logging\Debugging_Logging.py", line 41, in <module>
+    temp = a/b
+           ~^~
+ZeroDivisionError: division by zero
+INFO:root:We are calling our add function.
+INFO:root:add function executed, task completed.
+INFO:root:We are calling our is_even function.
+INFO:root:is_even function executed, task completed.
+INFO:root:This is an informational message.
+ERROR:root:This is an error message.
+ERROR:root:division by zero
+Traceback (most recent call last):
+  File "g:\python project\Python-Practise\Debugging_Logging\Debugging_Logging.py", line 41, in <module>
+    temp = a/b
+           ~^~
+ZeroDivisionError: division by zero
+INFO:root:We are calling our add function.
+INFO:root:add function executed, task completed.
+INFO:root:We are calling our is_even function.
+INFO:root:is_even function executed, task completed.
+INFO:root:We are calling our add function.
+INFO:root:add function executed, task completed.
+INFO:root:We are calling our is_even function.
+INFO:root:is_even function executed, task completed.
+INFO:root:This is an informational message.
+ERROR:root:This is an error message.
+ERROR:root:division by zero
+Traceback (most recent call last):
+  File "g:\python project\Python-Practise\Debugging_Logging\Debugging_Logging.py", line 41, in <module>
+    temp = a/b
+           ~^~
+ZeroDivisionError: division by zero
+INFO:root:We are calling our add function.
+INFO:root:add function executed, task completed.
+INFO:root:We are calling our is_even function.
+INFO:root:is_even function executed, task completed.
+INFO:root:We are calling our add function.
+INFO:root:add function executed, task completed.
+INFO:root:We are calling our is_even function.
+INFO:root:is_even function executed, task completed.
+2026-09-02 22:20:43,580 - root - INFO - We are calling our add function.
+2026-09-02 22:20:58,386 - root - INFO - We are calling our add function.
+2026-09-02 22:20:58,386 - root - INFO - add function executed, task completed.
+2026-09-02 22:20:58,386 - root - INFO - We are calling our is_even function.
+2026-09-02 22:20:58,386 - root - INFO - is_even function executed, task completed.
