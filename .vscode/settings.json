@@ -1,6 +1,11 @@
 {
   "cSpell.words": [
     "ghoraghuri",
+    "mydeque",
+    "mylist",
+    "myqueue",
+    "mystack",
+    "printlist",
     "profilehooks",
     "strerror",
     "timecall"
